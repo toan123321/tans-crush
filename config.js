@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'Khoa biết mà 🥰. Yêu Btuyen nhiều nhiều 😘😘',
     messDesc: 'Hẹn Btuyen ngày 21 nhó ra đây cho Khoa thịt 🤤.',
     btnAccept: 'Dạ Btuyen rất mong chờ ngày đó  <3',
+
 }
